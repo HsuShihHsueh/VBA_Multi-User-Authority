@@ -46,6 +46,10 @@
 
 ## EXCEL 工作簿
 
+#### 權限表
+可以決定個幹部可以看到的權限
+<img src="/picture/img_access.png" width="375" /><br>
+
 #### 幹部讀取員工名單
 為了日後增減員工名單，所以只讓最高權限的編輯名稱，其他幹部去讀取名單<br>
 ```
@@ -86,5 +90,4 @@
 ```
 <img src="/picture/img_score.png" width="375" /><br>
 不會因為沒被評分而被拉低平均<br>
-
 
