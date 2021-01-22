@@ -67,6 +67,10 @@
 
 #### 讀取工作表名稱
 這邊要注意一定要打$A$1或者別的範圍，才會鎖定在自身的工作表，如果沒打，在編輯別的工作表時，名稱會跑掉<br>
+前面加" "&是因為11月及12月跟別的月份長度不一樣，所以一律讀取兩位數<br>
 ```
-=MID(CELL("filename",$A$1),FIND("]",CELL("filename",$A$1))+1,LEN(CELL("filename",$A$1))-FIND("]",CELL("filename",$A$1)))
+=" "&MID(CELL("filename",$A$1),FIND("]",CELL("filename",$A$1))+1,LEN(CELL("filename",$A$1))-FIND("]",CELL("filename",$A$1)))
+=CHOOSE(MID($A$1,LEN($A$1)-2,2),"B","C","D","E","F","G","H","I","J","K","L","M")
+=IF(INDIRECT(B$1&"!"&$J$1&ROW()+1)="","",INDIRECT(B$1&"!"&$J$1&ROW()+1))
 ```
+
