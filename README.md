@@ -7,7 +7,7 @@
 ## 啟用巨集
 
 在 EXCEL/檔案/選項 裡，<br>
-點選
-詳細教程：
-<a href="https://officeguide.cc/excel-show-developer-tab-tutorial/">Excel 啟用「開發人員」工具教學</a>會連到 YouTube<br>
+點選<br>
+
+詳細教程：<a href="https://officeguide.cc/excel-show-developer-tab-tutorial/">Excel 啟用「開發人員」工具教學</a><br>
 
