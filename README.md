@@ -47,7 +47,7 @@
 ## EXCEL 工作簿
 
 #### 權限表
-可以決定個幹部可以看到的權限
+可以決定個幹部可以看到的權限<br>
 <img src="/picture/img_access.png" width="375" /><br>
 
 #### 幹部讀取員工名單
