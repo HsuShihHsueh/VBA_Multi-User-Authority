@@ -33,12 +33,12 @@
 
 #### Thisworkbook
 開啟Workbook<br>
-<img src="/picture/img_thisworkbook.png" width="375" />
+<img src="/picture/img_thisworkbook.png" width="375" /><br>
 將workbook.vba的程式複製到右方裡<br>
 
 #### UserForm
 在 插入/自訂表單<br>
-<img src="/picture/img_userform1.png" width="375" />
+<img src="/picture/img_userform1.png" width="375" /><br>
 利用工具列可將表單布置成下方形式<br>
-<img src="/picture/img_userform2.png" width="375" />
-
+<img src="/picture/img_userform2.png" width="375" /><br>
+點擊按鈕或文字進入編寫程式<br>
