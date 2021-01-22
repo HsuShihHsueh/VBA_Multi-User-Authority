@@ -18,12 +18,15 @@
 ## VBA(設定環境)
 
 #### 多行註解
-在 檢視/工具列/開啟編輯， 可以開啟多行註解
+在 檢視/工具列/開啟編輯， 可以開啟多行註解<br>
 <img src="/picture/img_comment.png" width="375" />
 #### 開啟密碼
-為了保護撰寫的程式被別人更改，可以將VBA的程式上鎖
-在 工具/VBAProject屬性/保護/檢視專案屬性的密碼
+為了保護撰寫的程式被別人更改，可以將VBA的程式上鎖<br>
+在 工具/VBAProject屬性/保護/檢視專案屬性的密碼<br>
 <img src="/picture/img_password.png" width="375" />
-
+#### 文字風格
+在 工具/選項/選寫風格<br>
+可更改文字字體與大小<br>
+<img src="/picture/img_font.png" width="375" />
 
 
