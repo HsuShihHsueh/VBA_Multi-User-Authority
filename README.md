@@ -62,10 +62,10 @@
 在 參考儲存格中，可以編輯範圍或是直接拖曳想要範圍<br>
 這邊我們只希望幹部能編輯自己的密碼及員工分數<br>
 這邊也可以讓下屬不能打上司的成績(不選取範圍即可)<br>
-<img src="/picture/img_range.png" width="375" /><br>
+<img src="/picture/img_range.png" width="600" /><br>
 點擊校閱/保護工作表，這邊也可以設定密碼<br>
 如果編輯未選取範圍，會跳出以下警告<br>
-<img src="/picture/img_protect.png" width="375" /><br>
+<img src="/picture/img_protect.png" width="600" /><br>
 
 詳細教程 <a href="https://bp6ru8.pixnet.net/blog/post/35656420-42.-excel:-%E5%87%BA%E5%B7%AE%E8%B2%BB%E7%94%A8%E8%A1%A8%EF%BC%8C%E5%8F%AA%E8%83%BD%E5%A1%AB%E5%AF%AB%E7%89%B9%E5%AE%9A%E5%84%B2%E5%AD%98%E6%A0%BC-%E5%85%81" target="_blank">Excel: 出差費用表，只能填寫特定儲存格/允許使用者編輯範圍</a><br>
 
@@ -88,6 +88,6 @@
 ```
 =IF(OR($B5="",$B5="x"),0,$B$2)+IF(OR($C5="",$C5="x"),0,$C$2)+IF(OR($D5="",$D5="x"),0,$D$2)+IF(OR($E5="",$E5="x"),0,$E$2)+IF(OR($F5="",$F5="x"),0,$F$2)+IF(OR($G5="",$G5="x"),0,$G$2)
 ```
-<img src="/picture/img_score.png" width="375" /><br>
+<img src="/picture/img_score.png" width="600" /><br>
 不會因為沒被評分而被拉低平均<br>
 
