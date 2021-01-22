@@ -10,4 +10,9 @@
 在"自訂功能區"，啟用"開發工具" <br>
 詳細教程：<a href="https://officeguide.cc/excel-show-developer-tab-tutorial/" target="_blank">Excel 啟用「開發人員」工具教學</a><br><br>
 
-記得另存成.xlsm檔，才能將巨集程式保存起來。<br>
+記得另存成.xlsm檔，才能將巨集程式保存起來<br>
+存完後記得啟用內容<br>
+<br>
+
+## 
+
