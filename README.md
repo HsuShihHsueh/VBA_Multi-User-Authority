@@ -23,10 +23,14 @@
 #### 開啟密碼
 為了保護撰寫的程式被別人更改，可以將VBA的程式上鎖<br>
 在 工具/VBAProject屬性/保護/檢視專案屬性的密碼<br>
-<img src="/picture/img_password.png" width="375" />
+<img src="/picture/img_password.png" width="600" />
 #### 文字風格
 在 工具/選項/選寫風格<br>
 可更改文字字體與大小<br>
 <img src="/picture/img_font.png" width="375" />
 
+## VBA(程式)
 
+#### Thisworkbook
+
+<img src="/picture/img_thisworkbook.png" width="375" />
