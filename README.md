@@ -1,7 +1,7 @@
 # 多使用者權限控制
 
 當需要多人共同編輯時，不免俗的會看到別人檔案，所以本專案希望建立一EXCEL檔案，利用一權限表決定該用戶能擁有查閱那些工作部的權限。本專案是採用各幹部評定考績來當作範本<br><br>
-以下範例程式的密碼皆是 0 
+以下範例程式的密碼皆是 0 <br>
 👇 youtube link<br>
 [![](http://img.youtube.com/vi/giUrLR0bFrg/0.jpg)](http://www.youtube.com/watch?v=giUrLR0bFrg "")
 
