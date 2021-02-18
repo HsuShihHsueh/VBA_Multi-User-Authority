@@ -4,7 +4,11 @@
 以下範例程式的密碼皆是 0 <br>
 #
 👇 youtube link<br>
-[![](./picture/img_open_marco.png =100x200)](http://www.youtube.com/watch?v=giUrLR0bFrg "")
+var image = "https://i9.ytimg.com/vi/giUrLR0bFrg/maxresdefault.jpg?time=1613615100000&sqp=CPyft4EG&rs=AOn4CLDCiUrWZAh5dSdnRy-ul-jOxtkNEA"
+var link = "http://www.youtube.com/watch?v=giUrLR0bFrg"
+<a href="http://www.youtube.com/watch?v=giUrLR0bFrg"><img src="https://i9.ytimg.com/vi/giUrLR0bFrg/maxresdefault.jpg?time=1613615100000&sqp=CPyft4EG&rs=AOn4CLDCiUrWZAh5dSdnRy-ul-jOxtkNEA" border="0"></a><br>
+<a href=link><img src=image border="0"></a><br>
+[![](https://i9.ytimg.com/vi/giUrLR0bFrg/maxresdefault.jpg?time=1613615100000&sqp=CPyft4EG&rs=AOn4CLDCiUrWZAh5dSdnRy-ul-jOxtkNEA)](http://www.youtube.com/watch?v=giUrLR0bFrg "")
 
 ## 啟用巨集
 
