@@ -4,12 +4,7 @@
 以下範例程式的密碼皆是 0 <br>
 #
 👇 youtube link<br>
-Dim image As String = "https://i9.ytimg.com/vi/giUrLR0bFrg/maxresdefault.jpg?time=1613615100000&sqp=CPyft4EG&rs=AOn4CLDCiUrWZAh5dSdnRy-ul-jOxtkNEA"
-Dim link As String = "http://www.youtube.com/watch?v=giUrLR0bFrg"
-avar image = "https://i9.ytimg.com/vi/giUrLR0bFrg/maxresdefault.jpg?time=1613615100000&sqp=CPyft4EG&rs=AOn4CLDCiUrWZAh5dSdnRy-ul-jOxtkNEA"
-avar link = "http://www.youtube.com/watch?v=giUrLR0bFrg"
 <a href="http://www.youtube.com/watch?v=giUrLR0bFrg"><img src="https://i9.ytimg.com/vi/giUrLR0bFrg/maxresdefault.jpg?time=1613615100000&sqp=CPyft4EG&rs=AOn4CLDCiUrWZAh5dSdnRy-ul-jOxtkNEA" border="0"></a><br>
-<a href=link><img src=image border="0"></a><br>
 [![](https://i9.ytimg.com/vi/giUrLR0bFrg/maxresdefault.jpg?time=1613615100000&sqp=CPyft4EG&rs=AOn4CLDCiUrWZAh5dSdnRy-ul-jOxtkNEA)](http://www.youtube.com/watch?v=giUrLR0bFrg "")
 
 ## 啟用巨集
