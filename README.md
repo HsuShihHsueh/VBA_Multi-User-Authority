@@ -4,7 +4,7 @@
 以下範例程式的密碼皆是 0 <br>
 #
 👇 youtube link<br>
-<kbd><a href="http://www.youtube.com/watch?v=giUrLR0bFrg"><img src="https://i9.ytimg.com/vi/giUrLR0bFrg/maxresdefault.jpg?time=1613615100000&sqp=CPyft4EG&rs=AOn4CLDCiUrWZAh5dSdnRy-ul-jOxtkNEA" width="700" style="border:2px #ccc solid;padding:5px;"></a></kbd><br> 
+<kbd><a href="http://www.youtube.com/watch?v=giUrLR0bFrg" target=_blank><img src="https://i9.ytimg.com/vi/giUrLR0bFrg/maxresdefault.jpg?time=1613615100000&sqp=CPyft4EG&rs=AOn4CLDCiUrWZAh5dSdnRy-ul-jOxtkNEA" width="700" style="border:2px #ccc solid;padding:5px;"></a></kbd><br> 
 ## 啟用巨集
 
 在 EXCEL/檔案/選項 裡，<br>
