@@ -7,7 +7,7 @@
 <kbd>
   <img src="https://i.stack.imgur.com/CtiyS.png">
 </kbd><br>
-<a href="http://www.youtube.com/watch?v=giUrLR0bFrg"><img src="https://i9.ytimg.com/vi/giUrLR0bFrg/maxresdefault.jpg?time=1613615100000&sqp=CPyft4EG&rs=AOn4CLDCiUrWZAh5dSdnRy-ul-jOxtkNEA" width="700" style="border:2px #ccc solid;padding:5px;"></a><br> 
+<kbd><a href="http://www.youtube.com/watch?v=giUrLR0bFrg"><img src="https://i9.ytimg.com/vi/giUrLR0bFrg/maxresdefault.jpg?time=1613615100000&sqp=CPyft4EG&rs=AOn4CLDCiUrWZAh5dSdnRy-ul-jOxtkNEA" width="700" style="border:2px #ccc solid;padding:5px;"></a></kbd><br> 
 ## 啟用巨集
 
 在 EXCEL/檔案/選項 裡，<br>
