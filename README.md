@@ -4,7 +4,7 @@
 以下範例程式的密碼皆是 0 <br>
 #
 👇 youtube link<br>
-[![](/picture/img_open_marco.png =100x200)](http://www.youtube.com/watch?v=giUrLR0bFrg "")
+[![](./picture/img_open_marco.png =100x200)](http://www.youtube.com/watch?v=giUrLR0bFrg "")
 
 ## 啟用巨集
 
