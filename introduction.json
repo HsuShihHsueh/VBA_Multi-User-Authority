@@ -1,0 +1,17 @@
+{
+	"name" : "VBA_Multi-User-Authority",
+	"thumbnail" : "https://img.youtube.com/vi/giUrLR0bFrg/maxresdefault.jpg",
+	"project_zh" : "【Excel VBA】多使用者權限控制",
+	"project_en" : "Multi User Authority by Excel VBA",
+	"hashtag" : ["#Excel","#VBA"],
+	"description_zh" : "當需要多人共同編輯時，不免俗的會看到別人檔案，所以本專案希望建立一EXCEL檔案，利用一權限表決定該用戶能擁有查閱那些工作部的權限。本項目是採用各幹部評定考績來當作範本。",
+	"description_en" : "When multiple people are required to edit together, it is inevitable to see other people's files, so this project hopes to create an EXCEL file, and use a permission table to determine which user has permission to access these worksheets. This project uses the performance appraisal of each cadre as a example.",
+	"github" : "https://github.com/HsuShihHsueh/VBA_Multi-User-Authority",
+	"youtube" : "https://www.youtube.com/watch?v=giUrLR0bFrg",
+	"date" : "Last Updated : 2021-02-17",
+	"picture" : [
+		"https://img.youtube.com/vi/giUrLR0bFrg/maxresdefault.jpg",
+		"https://github.com/HsuShihHsueh/VBA_Multi-User-Authority/raw/main/picture/img_password.png",
+		"https://github.com/HsuShihHsueh/VBA_Multi-User-Authority/raw/main/picture/1.gif"
+	]
+}
